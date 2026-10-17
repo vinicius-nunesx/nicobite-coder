@@ -1,44 +1,37 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThqZmFvNmFkejE2ZTk1aWVnM3NiZzMxN3o3dmxrb2FvbDg0dW82MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SnVZO1N0Wo6u4/giphy.gif"  />
-</div>
+<br clear="both">
+
+<img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JzNWN1OHBpZGJ5ajIwYXgyN3Z0eWR0NTFpM3dmcnV2c3c2NXNlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6PKD2dFPJnh5Cu4CkX/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <a href="https://www.instagram.com/nicobite_coder/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+<h1 data-importer="text" align="left">👋 Hey, eu sou o Nico!</h1>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<p data-importer="text" align="left">Sou do Brasil e estou começando minha jornada no mundo da programação.</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 data-importer="text" align="left">📚 O que eu tô aprendendo</h2>
 
 ###
 
-<p align="left">-🚀 My Python Journey
-Focus on Fundamentals: I am currently mastering the core concepts of Python, including syntax, variables, data types, and control flow (if/else, loops).
-
-Problem Solving: Practicing logic by building small scripts, automation tools, and mini-projects.
-
-Clean Code: Learning the importance of writing readable, well-commented code following Python's best practices (PEP 8).
-
-Continuous Learning: Exploring the vast Python ecosystem, from its rich built-in functions to understanding how libraries work.</p>
+<p data-importer="text" align="left">- JavaScript<br>- Git & GitHub<br>- Lógica de programação</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 data-importer="text" align="left">🛠️ Stack (em construção)</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<p data-importer="text" align="left">Construir projetos reais e evoluir como dev — um commit de cada vez.</p>
+
+###
+
+<h2 data-importer="text" align="left">## 🎯 Objetivo</h2>
+
+###
+
+<p data-importer="text" align="left">Construir projetos reais e evoluir como dev — um commit de cada vez.</p>
 
 ###
